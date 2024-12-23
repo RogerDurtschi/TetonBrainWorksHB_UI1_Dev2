@@ -1,5 +1,6 @@
 # TetonBrainWorksHB_UI3_Dev2
 Tilta Saddle User Interface
+Processor: nRF52832
 
 The program is executable only if the files are copied to the following folder: /nRF5_SDK_17.0.2_d674dde/examples/My_nRF/Projects/ where the folder name, My_nRF_Projects is arbitrary.
 In original SDK, the nRF5 SDK path for main.c was /nRF5_SDK_17.0.2_d674dde/examples/My_nRF_Projects/hb_ui_3/main.c
